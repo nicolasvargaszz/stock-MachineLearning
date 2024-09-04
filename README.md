@@ -1,5 +1,5 @@
 # stock-MachineLearning
-Abastecimiento inteligente para una empresa, utilizando Machine learning.
+Abastecimiento inteligente para una empresa que se dedica a la venta de tejidos en Paraguay, utilizando Machine learning.
 
 
 # Estructura del proyecto -> CRISP-DM
@@ -27,3 +27,10 @@ Iteración en caso de necesidad.
 # 6. Despliegue
 Implementación de soluciones.
 Monitoreo y mantenimiento.
+
+# 7. Resumen:
+
+Basicamente, usamos distintos metodos para poder llegar a un resultado
+Intentamos primero usando modelos predictivos y regresiones usando la libreria scikit-learn
+Pero los resultados no fueron tan optimos
+Utilizamos facebookprophet y llegamos a un resultado positivo.
