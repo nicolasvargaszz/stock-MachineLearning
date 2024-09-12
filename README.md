@@ -59,3 +59,6 @@ Feel free to contact us for further details or inquiries related to this project
 
 ## 📬 Contact
 Twitter: [@nicoelingeniero](https://twitter.com/nicoelingeniero)
+
+
+The Data provide must be use in a ethical way.
